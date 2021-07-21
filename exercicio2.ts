@@ -1,5 +1,6 @@
 // Adicionar o seu nome aqui no vetor, em outra linha
 export const alunos = [
-    "Leonardo de Quadros Gonçalves",
-    "Henrique Kenji Nawa"
+   "Mendes",
+   "Henrique",
+   "Henrique Kenji Nawa"
 ];

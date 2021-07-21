@@ -1,2 +1,7 @@
 // Adicionar o seu nome aqui no vetor, na mesma linha
-export const alunos = ["Leonardo de Quadros Gonçalves","Henrique Kenji Nawa"];
+export const alunos = [
+    "Leonardo de Quadros Gonçalves",
+    "Henrique Caetano de Barros",
+    "Alex Botelho de Almeida",
+    "Henrique Kenji Nawa"
+];
