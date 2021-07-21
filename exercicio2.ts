@@ -1,3 +1,4 @@
 export const alunos = [
-    '1'
+    '1',
+    '2',
 ];
