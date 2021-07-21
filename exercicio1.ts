@@ -1,2 +1,2 @@
 // Adicionar o seu nome aqui no vetor, na mesma linha
-export const alunos = [];
+export const alunos = ['Ricardo de Jesus'];
