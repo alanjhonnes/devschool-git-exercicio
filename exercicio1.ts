@@ -9,6 +9,7 @@ export const alunos = ["Leonardo de Quadros Gonçalves"];
 export const alunos = [
     "Leonardo de Quadros Gonçalves",
     "Henrique Caetano de Barros",
-    "Alex Botelho de Almeida"
+    "Alex Botelho de Almeida",
+    "Henrique Kenji Nawa"
 ];
 >>>>>>> d631ca62746130b243270b90f6f14d27310fcd6f
