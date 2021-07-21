@@ -6,4 +6,5 @@ export const alunos = [
    "Henrique",
    "Henrique Kenji Nawa",
    'Ricardo de Jesus',
+  'Gedeilson Lopes',
 ];

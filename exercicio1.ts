@@ -4,5 +4,6 @@ export const alunos = [
     "Leonardo de Quadros Gonçalves",
     "Henrique Caetano de Barros",
     "Alex Botelho de Almeida",
-    "Henrique Kenji Nawa"
+    "Henrique Kenji Nawa",
+    "Gedeilson Lopes",
 ];
