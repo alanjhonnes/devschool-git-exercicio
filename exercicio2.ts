@@ -8,5 +8,4 @@ export const alunos = [
    'Ricardo de Jesus',
   'Gedeilson Lopes',
   "Magda Castro",
-  "XPTO",
 ];
