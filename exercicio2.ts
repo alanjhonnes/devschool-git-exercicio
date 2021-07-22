@@ -3,7 +3,7 @@ export const alunos = [
    "Alan Jhonnes",
    'Ricardo de Jesus',
    "Mendes",
-   "Henrique",
+   "Henrique Caetano",
    "Henrique Kenji Nawa",
    'Ricardo de Jesus',
   'Gedeilson Lopes',
